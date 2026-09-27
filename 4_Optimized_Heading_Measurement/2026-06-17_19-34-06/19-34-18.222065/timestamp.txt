@@ -1,0 +1,4 @@
+Capture Time: 2026-06-17 19:34:18.222065
+Image Number: 12/300
+Elapsed Seconds: 11
+Test Name: 
